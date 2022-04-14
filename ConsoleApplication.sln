@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{BC2E4819-914E-472D-A5B1-CD0F6A81EF4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{435581C2-976A-4256-91FD-A2BDB956D7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC2E4819-914E-472D-A5B1-CD0F6A81EF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2E4819-914E-472D-A5B1-CD0F6A81EF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2E4819-914E-472D-A5B1-CD0F6A81EF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435581C2-976A-4256-91FD-A2BDB956D7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435581C2-976A-4256-91FD-A2BDB956D7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435581C2-976A-4256-91FD-A2BDB956D7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435581C2-976A-4256-91FD-A2BDB956D7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

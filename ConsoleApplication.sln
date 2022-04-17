@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For", "For\For.csproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While-Foreach", "While-Foreach\While-Foreach.csproj", "{ECF8E9DB-E215-4DA3-AA05-8D5354F5372C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{ECF8E9DB-E215-4DA3-AA05-8D5354F5372C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF8E9DB-E215-4DA3-AA05-8D5354F5372C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF8E9DB-E215-4DA3-AA05-8D5354F5372C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,7 +35,7 @@ namespace While_Foreach
             
             foreach (var araba in arabalar)
             {
-                Console.WriteLine(araba);
+                Console.WriteLine(araba); 
             }
 
 

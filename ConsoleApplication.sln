@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While-Foreach", "While-Fore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{D1601345-7F89-4226-B514-0326AE28071F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD5124A1-B6F2-4FD3-99D3-2A143E3CF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1601345-7F89-4226-B514-0326AE28071F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1601345-7F89-4226-B514-0326AE28071F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1601345-7F89-4226-B514-0326AE28071F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1601345-7F89-4226-B514-0326AE28071F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

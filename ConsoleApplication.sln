@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{F29F9875-DBA9-423A-BA92-B61BFBC1B9CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\Overloading.csproj", "{38AF2729-7C44-4578-B4C3-75C90AC2CCB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F29F9875-DBA9-423A-BA92-B61BFBC1B9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F29F9875-DBA9-423A-BA92-B61BFBC1B9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F29F9875-DBA9-423A-BA92-B61BFBC1B9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AF2729-7C44-4578-B4C3-75C90AC2CCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AF2729-7C44-4578-B4C3-75C90AC2CCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AF2729-7C44-4578-B4C3-75C90AC2CCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AF2729-7C44-4578-B4C3-75C90AC2CCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

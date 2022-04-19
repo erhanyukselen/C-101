@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String-Metotlar", "String-M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime-Math", "DateTime-Math\DateTime-Math.csproj", "{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

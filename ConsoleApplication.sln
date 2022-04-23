@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "Overloading\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive-Extension", "Recursive-Extension\Recursive-Extension.csproj", "{51FC78D4-E5DF-487C-945C-D6355E2955DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestions", "AlgorithmQuestions\AlgorithmQuestions.csproj", "{18DD3849-3BE3-4096-BBA6-23A3923FF026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmQuestions", "AlgorithmQuestions\AlgorithmQuestions.csproj", "{18DD3849-3BE3-4096-BBA6-23A3923FF026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String-Metotlar", "String-Metotlar\String-Metotlar.csproj", "{F44C6302-DC7B-422B-B35F-AC6A7EEC400D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String-Metotlar", "String-Metotlar\String-Metotlar.csproj", "{F44C6302-DC7B-422B-B35F-AC6A7EEC400D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime-Math", "DateTime-Math\DateTime-Math.csproj", "{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime-Math", "DateTime-Math\DateTime-Math.csproj", "{93CFE28A-DCAE-49BE-80E3-E0111D0D3263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\GenericList.csproj", "{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionQuestions", "CollectionQuestions\CollectionQuestions.csproj", "{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

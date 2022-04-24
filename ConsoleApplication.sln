@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime-Math", "DateTime-M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\GenericList.csproj", "{6ADE7E98-EF29-4BAA-9028-8538EC64F1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionQuestions", "CollectionQuestions\CollectionQuestions.csproj", "{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionQuestions", "CollectionQuestions\CollectionQuestions.csproj", "{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siniflar-Field", "Siniflar-Field\Siniflar-Field.csproj", "{D1424916-D106-4D52-81A8-CBEBA4BC6B01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

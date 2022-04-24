@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionQuestions", "CollectionQuestions\CollectionQuestions.csproj", "{C80A53C7-B475-4A35-BAFB-BFE74F4D5C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siniflar-Field", "Siniflar-Field\Siniflar-Field.csproj", "{D1424916-D106-4D52-81A8-CBEBA4BC6B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siniflar-Field", "Siniflar-Field\Siniflar-Field.csproj", "{D1424916-D106-4D52-81A8-CBEBA4BC6B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMethods", "ConstructorMethods\ConstructorMethods.csproj", "{525CA69A-3481-4781-A512-02E03CC8D834}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1424916-D106-4D52-81A8-CBEBA4BC6B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525CA69A-3481-4781-A512-02E03CC8D834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525CA69A-3481-4781-A512-02E03CC8D834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525CA69A-3481-4781-A512-02E03CC8D834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525CA69A-3481-4781-A512-02E03CC8D834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

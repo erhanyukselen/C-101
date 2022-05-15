@@ -13,5 +13,10 @@ namespace Polymorphism
         protected void Bosaltım(){
             Console.WriteLine("Canlılar bosaltım yapar.");
         }
+
+        public virtual void UyaranlaraTepki(){
+            Console.Write("Canlılar uyaranlara tepki verir.");
+        }
+        
     } 
 }
